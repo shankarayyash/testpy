@@ -5,4 +5,4 @@ a = 10
 b = 20
 c = 10
 d = 10
-printsdzxfcg("Sum =", a + b + c + d)
+print("Sum =", a + b + c + d)
