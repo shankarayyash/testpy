@@ -4,4 +4,5 @@ print("This is a simple Python example")
 a = 10
 b = 20
 c = 10
-print("Sum =", a + b + c)
+d = 10
+print("Sum =", a + b + c + d)
